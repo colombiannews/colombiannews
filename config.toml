@@ -1,6 +1,6 @@
 baseURL = 'https://maverick.canhtran.me'
 languageCode = 'es'
-title = 'Maverick'
+title = 'Colombiano anónimo'
 theme = 'maverick'
 
 [permalinks]
@@ -8,8 +8,8 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Usuario Anónimo'
+  description = "Noticias y temas relevantes en Colombia que probablemente no serán visibilizados por mas nadie, sea porque quienes lo saben tienen miedo a represalias, porque algún poder los silencia. En cualquier caso estas noticias o temas aparecen tergiversados en los medios oficiales, si es que aparecen."
+  author = 'Anónimo'
   items = 10
 
   [params.comments]
