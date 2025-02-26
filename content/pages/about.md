@@ -1,5 +1,5 @@
 ---
-title = 'Acerca de mi'
+title: About
 ---
 
 Tenía esta idea rondando desde hace un tiempo. Desde que me enteré que a los mototaxis que les pusieron los uniformes de Bahía realmente les están cobrando vacuna. Descubrieron las microtransacciones los delincuentes.
