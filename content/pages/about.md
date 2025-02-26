@@ -1,10 +1,7 @@
-+++
+---
 title = 'Acerca de mi'
-date = 2025-02-24T07:07:07+01:00
-draft = false
-+++
+---
 
-# Sobre mi
 Tenía esta idea rondando desde hace un tiempo. Desde que me enteré que a los mototaxis que les pusieron los uniformes de Bahía realmente les están cobrando vacuna. Descubrieron las microtransacciones los delincuentes.
 
 En fin, doy vueltas por el mundo, pero tristemente he vivido una parte de mi vida en este palo de sol. Y he visto muchas cosas. Nada distinto a lo que ven los demás, pero nadie parece hablar, digo, verdaderamente, con la verdad. Pero es porque mas allá de la verdad todos le temen a la muerte. Por eso hice esto, para desahogarme un poco.
